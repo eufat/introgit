@@ -1,2 +1,2 @@
-"# Hey there" 
+"# Intro Git" 
 This is an introduction to git
